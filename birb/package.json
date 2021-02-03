@@ -1,0 +1,8 @@
+{
+  "name": "birb",
+  "version": "0.0.1",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "tweetnacl": "^1.0.3"
+  }
+}
