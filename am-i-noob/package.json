@@ -1,0 +1,7 @@
+{
+  "name": "aminoob",
+  "version": "0.0.1",
+  "dependencies": {
+    "tweetnacl": "^1.0.3"
+  }
+}
